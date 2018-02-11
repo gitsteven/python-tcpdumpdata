@@ -14,8 +14,6 @@ download from https://pan.baidu.com/s/1nvXeuLz
 
 donate
 
-![支付宝](https://user-images.githubusercontent.com/7480451/36069134-05320cc2-0f1f-11e8-9a9a-d845a50a4bd4.JPG)
+![支付宝](https://user-images.githubusercontent.com/7480451/36069173-a54b289c-0f1f-11e8-9b19-23b55ecd3b64.png)
 
-
-
-![微信](https://user-images.githubusercontent.com/7480451/36069135-06672f78-0f1f-11e8-9496-fb8c0ff5d85a.JPG)
+![微信](https://user-images.githubusercontent.com/7480451/36069184-bde94488-0f1f-11e8-84bb-4f3d571dbfaf.png)
